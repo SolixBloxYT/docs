@@ -1,1 +1,20 @@
-{}
+{
+  "name": "slam bot",
+  "favicon": "/path/to/favicon.ico",
+  "colors": {
+    "primary": "#3498db",
+    "secondary": "#2ecc71",
+    "background": "#ffffff",
+    "text": "#333333"
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "About",
+      "url": "/about"
+    }
+  ]
+}
