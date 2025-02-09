@@ -4,7 +4,7 @@
   "name": "slam docs",
   "colors": {
     "primary": "#ADA79F",
-    "light": "#ADA79F",
+    "light": "#B7B2A7",
     "dark": "#ADA79F"
   },
   "favicon": "/favicon.svg",
@@ -16,7 +16,7 @@
           {
             "group": "Get Started",
             "pages": [
-              "introduction",
+              "intro",
               "quickstart",
               "development"
             ]
@@ -49,8 +49,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Home",
+      "href": "https://slam.best"
     }
   },
   "footer": {
