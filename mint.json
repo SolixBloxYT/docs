@@ -1,20 +1,27 @@
 {
-  "name": "slam bot",
-  "favicon": "/path/to/favicon.ico",
+  "name": "My Mint App",
+  "favicon": "/path/to/favicon.png",  
   "colors": {
     "primary": "#3498db",
-    "secondary": "#2ecc71",
-    "background": "#ffffff",
-    "text": "#333333"
+    "background": {
+      "light": "#ffffff",
+      "dark": "#333333"
+    }
   },
   "navigation": [
     {
-      "label": "Home",
-      "url": "/"
+      "group": "Main",
+      "pages": [
+        { "name": "Home", "url": "/" },
+        { "name": "About", "url": "/about" }
+      ]
     },
     {
-      "label": "About",
-      "url": "/about"
+      "group": "More",
+      "pages": [
+        { "name": "Contact", "url": "/contact" },
+        { "name": "Blog", "url": "/blog" }
+      ]
     }
   ]
 }
