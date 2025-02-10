@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "quill",
+  "theme": "mint",
   "name": "slam docs",
   "colors": {
     "primary": "#ADA79F",
     "light": "#B7B2A7",
     "dark": "#ADA79F"
   },
-  "favicon": "/slam.svg",
+  "favicon": "/#153.jpeg",
   "navigation": {
     "tabs": [
       {
