@@ -17,8 +17,21 @@
             "group": "Overview",
             "pages": [
               "intro",
-              "quickstart",
-              "development"
+              "premium",
+            ]
+          },
+          {
+            "group": "Getting Started",
+            "pages": [
+              "installation",
+              "setup"
+            ]
+          },
+          {
+            "group": "Advanced Features",
+            "pages": [
+              "customization",
+              "API"
             ]
           }
         ]
@@ -45,7 +58,7 @@
   "footer": {
     "socials": {
       "x": "https://x.com/solixblox",
-      "github": "https://github.com/solixbloxyt"
+      "github": "https://github.com/solixbloxyt",
       "discord": "https://discord.gg/slambot"
     }
   }
