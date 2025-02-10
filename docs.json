@@ -14,7 +14,7 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Overview",
             "pages": [
               "intro",
               "quickstart",
@@ -46,6 +46,7 @@
     "socials": {
       "x": "https://x.com/solixblox",
       "github": "https://github.com/solixbloxyt"
+      "discord": "https://discord.gg/slambot"
     }
   }
 }
